@@ -28,7 +28,7 @@ Users should be able to:
 ### Screenshot
 
 <img src='./screenshots/desktop.png'>
-<img src='./screenshots/tablet.png'>
+<img src='./screenshots/tablet.png'> 
 <img src='./screenshots/mobile.png'>
 <img src='./screenshots/medium.png'>
 
